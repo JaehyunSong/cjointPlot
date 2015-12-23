@@ -1,0 +1,10 @@
+Package: cjointPlot
+Type: Package
+Title: Journal-like Visualization for 'amce' Object
+Version: 0.3
+Date: 2015-12-23
+Author: SONG Jaehyun
+Maintainer: SONG Jaehyun <jaehyun.song@stu.kobe-u.ac.jp>
+Description: Journal-like Visualization for cjoint Package
+License: MIT
+LazyData: TRUE
